@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-AmplitudeTestbed/Pods-AmplitudeTestbed-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Amplitude/Amplitude.framework
+${BUILT_PRODUCTS_DIR}/AnalyticsConnector/AnalyticsConnector.framework

@@ -1,0 +1,20 @@
+PODS:
+  - Amplitude (8.17.1):
+    - AnalyticsConnector (~> 1.0.0)
+  - AnalyticsConnector (1.0.1)
+
+DEPENDENCIES:
+  - Amplitude (~> 8.17.1)
+
+SPEC REPOS:
+  trunk:
+    - Amplitude
+    - AnalyticsConnector
+
+SPEC CHECKSUMS:
+  Amplitude: a43a03b98ce379b1fd7a08b5733d199ff5d9130f
+  AnalyticsConnector: eccd7e1cd3dd18e6bd09ac2506e37d4ed43ba3f4
+
+PODFILE CHECKSUM: 0665e1a13581cbd097419883380f316b3b50a9e3
+
+COCOAPODS: 1.12.1
